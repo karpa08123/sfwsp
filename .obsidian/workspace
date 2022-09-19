@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "5984e42e276fe33c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8727e79fa6cd0211",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pila.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a25955eb6ed74936",
+    "type": "split",
+    "children": [
+      {
+        "id": "871c465559de01df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "336d0cbd6462b4c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa7ee3f29a771558",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Fundamentos-de-bd",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fb7f7e18a5c2857",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8efbd1d3e81c498",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed898e196d09aa35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f89c6879583f10e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pila.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dae68edae9d81e6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pila.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c4b31c3934c1e01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dee94f85258c7c02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pila.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8727e79fa6cd0211",
+  "lastOpenFiles": [
+    "organizacion de datos/Estructura, organizacion y datos.md",
+    "obsidiana/Wiki.md",
+    "fundamentos-bd/Depurar y borrar campos.md",
+    "fundamentos-bd/Laboratorio.md",
+    "fundamentos-bd/Fundamentos-de-bd.md",
+    "fundamentos-bd/Temario-Constant-PK-Consultas.md",
+    "organizacion de datos/arreglos-matrices.md",
+    "fundamentos-bd/Index.md"
+  ]
+}
